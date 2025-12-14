@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-3 px-16 bg-white dark:bg-black sm:items-start">
         <Image
           className=""
-          src={h}
+          src="/download(3).jpeg"
           alt="Next.js logo"
           width={500}
           height={100}
@@ -63,7 +63,7 @@ Leave the burden of Technical work to us and let our specialized team manage eve
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-3 px-3 bg-white dark:bg-black sm:items-start">
         <Image
           className=""
-          src={g}
+          src=""/download (10).jpeg
           alt="madgenius logo"
           width={550}
           height={100}
