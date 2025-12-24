@@ -120,7 +120,7 @@ We Know Technology Well <br/> Our staff is a blend of fine young men and woman w
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-3 px-16 bg-white dark:bg-black sm:items-start">
         <Image
           className=""
-          src="/1.jpeg"
+          src="/1.jpg"
           alt="Next.js logo"
           width={500}
           height={100}
