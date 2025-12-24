@@ -128,9 +128,10 @@ We Know Technology Well <br/> Our staff is a blend of fine young men and woman w
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-THE WORLD IN YOUR HAND          </h1>
+Everything is possible within your hands</h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-We Know Technology Well <br/> Our staff is a blend of fine young men and woman who share a common passion for Technology. they are happy to help at any time and answer your questions. <a
+Begin your journey towards success; everything is possible with determination and willpower. Let us be your partner in achieving success.
+. <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
