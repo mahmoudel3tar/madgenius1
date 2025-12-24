@@ -120,7 +120,7 @@ We Know Technology Well <br/> Our staff is a blend of fine young men and woman w
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-3 px-16 bg-white dark:bg-black sm:items-start">
         <Image
           className=""
-          src="/download(10).jpeg"
+          src="/1.jpeg"
           alt="Next.js logo"
           width={500}
           height={100}
@@ -128,8 +128,7 @@ We Know Technology Well <br/> Our staff is a blend of fine young men and woman w
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            Mad Genius For All Technology Service Sales & Maintenance.
-          </h1>
+THE WORLD IN YOUR HAND          </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
 We Know Technology Well <br/> Our staff is a blend of fine young men and woman who share a common passion for Technology. they are happy to help at any time and answer your questions. <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
